@@ -26,7 +26,7 @@ reddit = pd.read_csv('depression_dataset_reddit_cleaned.csv')
 ```
 
 ## Help
-* If errors such as 'object is not callable' appear, a simple restart to the colaboratory should fix the issure:
+* If errors such as 'object is not callable' appear, a simple restart to the colaboratory should fix the issue:
 ```
 Runtime -> Restart runtime
 ```
