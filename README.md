@@ -31,10 +31,6 @@ reddit = pd.read_csv('depression_dataset_reddit_cleaned.csv')
 Runtime -> Restart runtime
 ```
 
-## Authors
-
-Vulnet Alija 
-
 ## Version History
 * 0.1
     * Initial Release
